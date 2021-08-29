@@ -1,0 +1,6 @@
+f=open("sail.text","rt")
+contend=f.read(3333)
+print(contend)
+contend=f.read(3333)
+print(contend)
+f.close()
